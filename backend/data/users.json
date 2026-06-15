@@ -6,6 +6,13 @@
       "email": "xyz@gmail.com",
       "passwordHash": "$2a$10$R1xwzmcFGQIC.ycfI3rAzOlcGKtkeyao/QJVxRMeMMnrH2UIt4UG.",
       "createdAt": "2026-06-15T12:10:22.727Z"
+    },
+    {
+      "id": "f16230ba-d990-4b9c-b9c8-776a6824a07d",
+      "username": "xAnyax",
+      "email": "zzz@gmail.com",
+      "passwordHash": "$2a$10$/0w1fS7fTHO7G8FMmbwa8uMblNsNYYmozO3ttTj69h.7xGxOzieiq",
+      "createdAt": "2026-06-15T14:46:18.665Z"
     }
   ]
 }
