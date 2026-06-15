@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "c6ec73cb-c1ae-44b1-885c-75f3d312f5a4",
+      "username": "him",
+      "email": "xyz@gmail.com",
+      "passwordHash": "$2a$10$R1xwzmcFGQIC.ycfI3rAzOlcGKtkeyao/QJVxRMeMMnrH2UIt4UG.",
+      "createdAt": "2026-06-15T12:10:22.727Z"
+    }
+  ]
+}

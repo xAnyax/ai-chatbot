@@ -1,0 +1,43 @@
+{
+  "chats": [
+    {
+      "id": "a790affe-5fd4-43e5-9b1a-8010926ccca2",
+      "userId": "c6ec73cb-c1ae-44b1-885c-75f3d312f5a4",
+      "title": "my name is hao",
+      "messages": [
+        {
+          "role": "user",
+          "content": "my name is hao",
+          "timestamp": "2026-06-15T13:49:29.681Z"
+        },
+        {
+          "role": "assistant",
+          "content": "Hi Hao! Nice to meet you. What would you like to do today?",
+          "timestamp": "2026-06-15T13:49:29.681Z"
+        },
+        {
+          "role": "user",
+          "content": "what is my name",
+          "timestamp": "2026-06-15T13:49:36.378Z"
+        },
+        {
+          "role": "assistant",
+          "content": "Your name is Hao.",
+          "timestamp": "2026-06-15T13:49:36.378Z"
+        },
+        {
+          "role": "user",
+          "content": "what is my name",
+          "timestamp": "2026-06-15T13:50:00.377Z"
+        },
+        {
+          "role": "assistant",
+          "content": "Your name is Hao.",
+          "timestamp": "2026-06-15T13:50:00.378Z"
+        }
+      ],
+      "createdAt": "2026-06-15T13:49:20.280Z",
+      "updatedAt": "2026-06-15T13:50:00.378Z"
+    }
+  ]
+}
