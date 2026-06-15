@@ -3,23 +3,23 @@
 A full-stack AI chatbot web app with multi-provider model support, guest mode, user authentication, and persistent chat history. The frontend uses [Puter.js](https://docs.puter.com/) for free AI access (OpenAI, Claude, Gemini, DeepSeek, Grok) with no API keys required for chat.
 
 ## Quick Start
-Guest Mode (Without login)
+### 1. Guest Mode (Without login)
 ![Alt Text](https://github.com/xAnyax/ai-chatbot/raw/main/Showcases%20photo/Guest_mode.PNG)
 
-User mode (Register and Login)
+### 2. User mode (Register and Login)
 ![Alt Text](https://github.com/xAnyax/ai-chatbot/raw/main/Showcases%20photo/registerui.PNG)
 ![Alt Text](https://github.com/xAnyax/ai-chatbot/raw/main/Showcases%20photo/loginui.PNG)
 
-Create a new chat
+### 3. Create a new chat
 ![Alt Text](https://github.com/xAnyax/ai-chatbot/raw/main/Showcases%20photo/newchat.PNG)
 
-AI responses:
+### 4. AI responses:
 ![Alt Text](https://github.com/xAnyax/ai-chatbot/raw/main/Showcases%20photo/aichat.PNG)
 ![Alt Text](https://github.com/xAnyax/ai-chatbot/raw/main/Showcases%20photo/gen.PNG)
 ![Alt Text](https://github.com/xAnyax/ai-chatbot/raw/main/Showcases%20photo/moreshowcase.PNG)
 
 ## Features
-Setting: User can switch provider and model, and modify font size, padding, etc.
+### Setting: User can switch provider and model, and modify font size, padding, etc.
 ![Alt Text](https://github.com/xAnyax/ai-chatbot/raw/main/Showcases%20photo/setting.PNG)
 
 ### Chat
