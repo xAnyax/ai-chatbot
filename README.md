@@ -6,8 +6,21 @@ A full-stack AI chatbot web app with multi-provider model support, guest mode, u
 Guest Mode (Without login)
 ![Alt Text](https://github.com/xAnyax/ai-chatbot/raw/main/Showcases%20photo/Guest_mode.PNG)
 
-## Features
+User mode (Register and Login)
+![Alt Text](https://github.com/xAnyax/ai-chatbot/raw/main/Showcases%20photo/registerui.PNG)
+![Alt Text](https://github.com/xAnyax/ai-chatbot/raw/main/Showcases%20photo/loginui.PNG)
 
+Create a new chat
+![Alt Text](https://github.com/xAnyax/ai-chatbot/raw/main/Showcases%20photo/newchat.PNG)
+
+AI responses:
+![Alt Text](https://github.com/xAnyax/ai-chatbot/raw/main/Showcases%20photo/aichat.PNG)
+![Alt Text](https://github.com/xAnyax/ai-chatbot/raw/main/Showcases%20photo/gen.PNG)
+![Alt Text](https://github.com/xAnyax/ai-chatbot/raw/main/Showcases%20photo/moreshowcase.PNG)
+
+## Features
+Setting: User can switch provider and model, and modify font size, padding, etc.
+![Alt Text](https://github.com/xAnyax/ai-chatbot/raw/main/Showcases%20photo/setting.PNG)
 
 ### Chat
 - Real-time AI conversations with conversation context (follow-up questions remember prior messages)
