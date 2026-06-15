@@ -3,7 +3,8 @@
 A full-stack AI chatbot web app with multi-provider model support, guest mode, user authentication, and persistent chat history. The frontend uses [Puter.js](https://docs.puter.com/) for free AI access (OpenAI, Claude, Gemini, DeepSeek, Grok) with no API keys required for chat.
 
 ## Quick Start
-
+Guest Mode (Without login)
+![Alt Text](https://github.com/xAnyax/ai-chatbot/raw/main/Showcases%20photo/Guest_mode.PNG)
 
 ## Features
 
